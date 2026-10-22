@@ -10,9 +10,6 @@ The complete project paper is in this repository:
 
 Click the link above to read it.
 
-## Authors
-
-Asif Alif, Md. Tareq Hasan, Adrita Rahman Tory, Paresh Chandra Barman, Khondokar Fida Hasan.
 
 ## License
 
