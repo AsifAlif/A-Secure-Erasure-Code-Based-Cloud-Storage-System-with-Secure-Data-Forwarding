@@ -10,7 +10,3 @@ The complete project paper is in this repository:
 
 Click the link above to read it.
 
-
-## License
-
-[MIT](LICENSE)
